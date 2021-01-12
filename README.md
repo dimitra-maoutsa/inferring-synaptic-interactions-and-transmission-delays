@@ -1,5 +1,7 @@
 # Inferring synaptic interactions and transmission delays
-(old project - to be archived )
+
+(old project - to be archived ) 
+
 (under construction - more details soon - brief info [here](https://gitlab.com/di.ma/inferring-synaptic-interactions-and-transmission-delays/-/blob/master/poster-connectomics_through_nonlinear.pdf) and [here](https://gitlab.com/di.ma/Connectivity_from_event_timing_patterns/-/blob/master/PhysRevLett.121.054101.pdf))
 
 <img src="reconstruction_quality_vs_CV.png"  width="30%" height="30%">
