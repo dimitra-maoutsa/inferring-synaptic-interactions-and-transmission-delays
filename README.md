@@ -1,5 +1,5 @@
 # Inferring synaptic interactions and transmission delays
-
+(under construction - more details soon)
 
 <img src="reconstruction_quality_vs_CV.png"  width="30%" height="30%">
 
